@@ -10,6 +10,9 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '8122'
     url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 71546-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71546#Wits-End
 gutenberg_issued: '2023-09-02'
 identifiers:
   gutenberg: '71546'
